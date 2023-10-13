@@ -21,6 +21,7 @@ César J. Bernal
  Mi proposito personal es culminar mis estudios universitarios lic. Bellas Artes, enfacis en artes visuales, aprender nuevos idiomas y ser la mejor artista plástica a nivel internacional. 
 En cuanto a mis actividades practico deportes extremos, danza, senderismo,surf,skate, escuchar musica clásica, realizar esculturas, nadar, voleibol, catar vino, diseñar, trabajo social y me encanta, amo leer ya que me genera mucha inspiracion para crear o realizar mis metas. xo
 
+Renato Johnson Preciado
 Tengo 26 años, vivo en Panamá, en la provincia de Colón soy una persona amante del deporte, 
- mis deportes favoritos son el fútbol y el baloncesto (fanatico del mejor equipo "LAKERS"), pero además soy amante y muy
- apasionado a la programación, me encanta el mundo de la codificación tanto que disfruto muchísimo cuando me siento a programar, me gusta la música, práctcamente todos los géneros y amante de la naturaleza.
+mis deportes favoritos son el fútbol y el baloncesto (fanatico del mejor equipo "LAKERS"), pero además soy amante y muy
+apasionado a la programación, me encanta el mundo de la codificación tanto que disfruto muchísimo cuando me siento a programar, me gusta la música, práctcamente todos los géneros y amante de la naturaleza.
