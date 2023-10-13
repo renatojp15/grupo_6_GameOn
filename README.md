@@ -16,3 +16,7 @@ César J. Bernal
 	el desarrollo en el área backend, para retarme a mí mismo a utilizar mis capacidades, busco ser una 
  	persona pensante y razonable, trato de ser versátil y adquirir conocimientos en otras áreas de desarrollo.
     
+     Angelica M. Ceballos P. 
+ ¡hola! soy angie tengo 25 años, un placer conocerlos.
+ Mi proposito personal es culminar mis estudios universitarios lic. Bellas Artes, enfacis en artes visuales, aprender nuevos idiomas y ser la mejor artista plástica a nivel internacional. 
+En cuanto a mis actividades practico deportes extremos, danza, senderismo,surf,skate, escuchar musica clásica, realizar esculturas, nadar, voleibol, catar vino, diseñar, trabajo social y me encanta, amo leer ya que me genera mucha inspiracion para crear o realizar mis metas. xo
