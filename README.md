@@ -13,7 +13,6 @@ Integrantes:
 César J. Bernal
 	Tengo 20 años y soy aficionado a los videojuegos, mis géneros favoritos son los RPG, Fighting Games y shooters. 
 	Fuertemente atraído al arte popular, la animación y la música. En el ámbito de desarrollo, me llama más la atención
-	el desarrollo en el área backend, para retarme a mí mismo a utilizar mi cabeza, razonar y buscar soluciones, en busca
-	de una mejor analítica y ser una persona pensante y razonable, aun así trato de ser versátil por lo que estoy abierto
-	a trabajar en otras áreas de desarrollo.
+	el desarrollo en el área backend, para retarme a mí mismo a utilizar mis capacidades, busco ser una 
+ 	persona pensante y razonable, trato de ser versátil y adquirir conocimientos en otras áreas de desarrollo.
     
