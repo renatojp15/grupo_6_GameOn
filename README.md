@@ -25,3 +25,6 @@ Hola! Soy Renato Johnson Preciado,
 Tengo 26 años, vivo en Panamá, en la provincia de Colón soy una persona amante del deporte, 
 mis deportes favoritos son el fútbol y el baloncesto (fanatico del mejor equipo "LAKERS"), pero además soy amante y muy
 apasionado a la programación, me encanta el mundo de la codificación tanto que disfruto muchísimo cuando me siento a programar, me gusta la música, práctcamente todos los géneros y amante de la naturaleza.
+
+	Hola!! Soy Aldair Becerra,
+de 28 años, Diseño Grafico es lo mio!, tengo un emprendimiento de articulos promocionales o personalizados, me gusta proponerme retos, y la programacion para mi es un reto mas, quiero, me gusta y le dedicaré el tiempo que sea necessario para estudiarlo!!.
