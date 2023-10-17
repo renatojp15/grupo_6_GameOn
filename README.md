@@ -36,7 +36,7 @@ me gusta proponerme retos, y la programacion para mi es un reto mas, quiero, me 
 #### Yansy Yao
 Holis, soy Yansy! tengo 25 años y soy una amante de la cultura kpop. Actualmente, termino mis estudios en Lic. en Química. Soy una persona aventurera, me encanta aprender y entender temas diferentes a mi profesión. Es por este motivo que me llamo la atención la programación ya que, es muy versátil y tiene muchas aplicaciones enfocadas a la ciencia. En mis tiempos libres me dedico a ver series o doramas, leer manhwas, conocer lugares lindos de mi pais, escuchar música y disfrutar el tiempo con amigos/familia. 
 
-### Yaneika Nieto
+#### Yaneika Nieto
 Hola Soy Yaneika tengo 26 años, soy de Panama, Colón
 Futura Ing.En Operaciones Logistica, soy emprendedora en el campo de decoración de fiesta y cultura.
 En mis tiempo libres me dedico a el baile folclorico de mi pais y al turismo interno.
