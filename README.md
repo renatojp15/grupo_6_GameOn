@@ -57,7 +57,7 @@ La programación es un reto para mi, es totalmente diferente a lo que estoy acos
 
 >[!NOTE]
 >
->Link de los [WareFrames](https://www.figma.com/file/HfthyJHZ7yoNBMRVyXWssq/GameOn?type=design&node-id=0%3A1&mode=design&t=snpFeywwNHHsz09r-1)
->Link del [Tablero de Trabajo](https://trello.com/invite/b/SLgAnjqJ/ATTI40d1c22b34bff44252883629262c9f6926F72A7E/gameontaskboard) 
+> * Link de los [WareFrames](https://www.figma.com/file/HfthyJHZ7yoNBMRVyXWssq/GameOn?type=design&node-id=0%3A1&mode=design&t=snpFeywwNHHsz09r-1)
+> * Link del [Tablero de Trabajo](https://trello.com/invite/b/SLgAnjqJ/ATTI40d1c22b34bff44252883629262c9f6926F72A7E/gameontaskboard) 
 
 
